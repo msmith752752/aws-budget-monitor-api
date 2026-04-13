@@ -19,4 +19,3 @@ API Gateway → AWS Lambda → JSON Response
 ---
 
 ## 📡 Endpoint
-
