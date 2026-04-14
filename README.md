@@ -5,12 +5,12 @@ A simple serverless API built using AWS Lambda and API Gateway that simulates bu
 
 ---
 
-## 🚀 Architecture
+## Architecture
 API Gateway → AWS Lambda → JSON Response
 
 ---
 
-## 🔧 Features
+## Features
 - Accepts budget and spending values via query parameters
 - Calculates usage percentage
 - Returns status: OK / WARNING / EXCEEDED
@@ -18,4 +18,4 @@ API Gateway → AWS Lambda → JSON Response
 
 ---
 
-## 📡 Endpoint
+## Endpoint
